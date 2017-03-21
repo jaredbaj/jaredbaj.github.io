@@ -21,13 +21,44 @@ h1 {
   margin: 2.5%;
 }
 
+h2 {
+  display: inline;
+  float: right;
+}
+
+footer {
+  font-size: 10px;
+  width: 100%;
+  text-align: center;
+  height: 50px;
+  position: fixed;
+  bottom: 0;
+  padding-right: 20px;
+}
+
+ul {
+  list-style-type: none;
+
+}
+
+li {
+  margin: .5%;
+
+}
+
+a:hover {
+  color:#88B04B;
+}
+
 #banner {
   font-size: 20px;
 
 }
 
+.side-nav {
 
-#side-nav {
+  width: 20%;
+  display: inline;
 
   -moz-animation-name: side-nav;
       -moz-animation-iteration-count: 1;
@@ -73,34 +104,7 @@ h1 {
     }
 }
 
-h2 {
-  display: inline-block;
-  float: right;
-}
 
-footer {
-  font-size: 10px;
-  width: 100%;
-  text-align: center;
-  height: 50px;
-  position: fixed;
-  bottom: 0;
-  padding-right: 20px;
-}
-
-ul {
-  list-style-type: none;
-
-}
-
-li {
-  margin: .5%;
-
-}
-
-a:hover {
-  color:#88B04B;
-}
 
 /*
 
