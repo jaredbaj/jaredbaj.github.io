@@ -22,8 +22,8 @@ h1 {
 }
 
 h2 {
-  display: inline;
-  float: right;
+  display: inline-block;
+  clear: left;
 }
 
 footer {
@@ -75,6 +75,8 @@ a:hover {
       animation-timing-function: ease;
       animation-duration: 0.6s;
 }
+
+
 
 /* SIDEBAR ANIMATION */
 
