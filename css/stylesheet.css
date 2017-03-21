@@ -23,7 +23,7 @@ h1 {
 
 h2 {
   display: inline;
-  
+
 }
 
 footer {
@@ -39,6 +39,7 @@ footer {
 ul {
   list-style-type: none;
   width; 20%
+  float: left;
 }
 
 li {
