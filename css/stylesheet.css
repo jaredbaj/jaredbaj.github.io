@@ -51,28 +51,29 @@ a:hover {
   color:#88B04B;
 }
 
-#banner {
+.banner {
   font-size: 20px;
-
+  background-color: #B2D6FF;
 }
 
 .sidebar {
   background-color: #F09A9D;
   width: 200px;                 /* Add this */
   height: 300px;
+  float: left;
 
 
-  -moz-animation-name: side-nav;
+  -moz-animation-name: sidebar;
       -moz-animation-iteration-count: 1;
       -moz-animation-timing-function: ease;
       -moz-animation-duration: 0.6s;
 
-      -webkit-animation-name: side-nav;
+      -webkit-animation-name: sidebar;
       -webkit-animation-iteration-count: 1;
       -webkit-animation-timing-function: ease;
       -webkit-animation-duration: 0.6s;
 
-      animation-name: side-nav;
+      animation-name: sidebar;
       animation-iteration-count: 1;
       animation-timing-function: ease;
       animation-duration: 0.6s;
