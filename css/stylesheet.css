@@ -22,7 +22,7 @@ h1 {
 }
 
 h2 {
-  display: inline;
+
 
 }
 
@@ -56,10 +56,11 @@ a:hover {
 
 }
 
-.side-nav {
+.sidebar {
+  background-color: #F09A9D;
+  width: 200px;                 /* Add this */
+  height: 300px;
 
-  width: 20%;
-  display: inline;
 
   -moz-animation-name: side-nav;
       -moz-animation-iteration-count: 1;
@@ -75,6 +76,10 @@ a:hover {
       animation-iteration-count: 1;
       animation-timing-function: ease;
       animation-duration: 0.6s;
+}
+
+.content {
+  background-color: #F5CF8E;
 }
 
 
