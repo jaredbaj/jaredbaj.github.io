@@ -95,8 +95,8 @@ a:hover {
 }
 
 .resume-wrapper {
-  margin: 0 auto;
-  
+  float: right;
+  width: 800px;
 }
 
 /* SIDEBAR ANIMATION */
