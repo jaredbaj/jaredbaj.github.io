@@ -28,6 +28,8 @@ footer {
   display: block;
   padding-right: 20px;
   clear: both;
+  bottom: 0;
+  position: fixed;
   /*background-color: lavender;*/
 }
 
