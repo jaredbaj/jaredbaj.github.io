@@ -29,7 +29,7 @@ footer {
   padding-right: 20px;
   clear: both;
   bottom: 0;
-  position: fixed;
+  position: relative;
   /*background-color: lavender;*/
 }
 
@@ -79,7 +79,7 @@ a:hover {
 .content {
   /*background-color: #F5CF8E;*/
   float: left;
-  height: 300px;
+  height: 200px;
   width: 300px;
   display: inline-block;
 }
@@ -103,12 +103,17 @@ a:hover {
 .resume-wrapper {
   float: right;
   width: 800px;
+  height: 800px;
 }
 
 .off {
   color: lightgrey;
 }
 
+.BREAK {
+  height: 800px;
+  width: 100%;
+}
 /* SIDEBAR ANIMATION */
 
 @-moz-keyframes side-nav {
