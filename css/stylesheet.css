@@ -8,14 +8,6 @@ a {
   cursor: pointer;
 }
 
-img {
-  float: right;
-  display: inline-block;
-  margin: 1.5%;
-  height: 81px;
-  width: 50px;
-}
-
 h1 {
   display: inline-block;
   margin: 2.5%;
@@ -87,6 +79,13 @@ a:hover {
   height: 300px;
 }
 
+.face {
+  float: right;
+  display: inline-block;
+  margin: 1.5%;
+  height: 81px;
+  width: 50px;
+}
 
 
 
