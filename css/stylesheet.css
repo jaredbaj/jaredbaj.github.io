@@ -53,7 +53,7 @@ a:hover {
 
 .sidebar {
   background-color: #F09A9D;
-  width: 200px;                 /* Add this */
+  width: 400px;                 /* Add this */
   height: 500px;
   float: left;
 
@@ -96,6 +96,7 @@ a:hover {
 
 .resume-wrapper {
   margin: 0 auto;
+  width: 800px;
 }
 
 /* SIDEBAR ANIMATION */
