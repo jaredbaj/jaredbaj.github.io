@@ -99,6 +99,10 @@ a:hover {
   width: 800px;
 }
 
+.off {
+  color: grey;
+}
+
 /* SIDEBAR ANIMATION */
 
 @-moz-keyframes side-nav {
