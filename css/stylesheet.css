@@ -54,7 +54,7 @@ a:hover {
 .sidebar {
   /*background-color: #F09A9D;*/
   width: 300px;                 /* Add this */
-  height: 750px;
+  height: 50px;
   float: left;
 
 
@@ -93,7 +93,9 @@ a:hover {
 .resume {
   display: inline-block;
   margin: 1.5%;
-  width: 800px;
+  width: 600px;
+  float: right;
+  margin-right: 60px;
 }
 
 .resume-wrapper {
