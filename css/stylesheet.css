@@ -97,7 +97,9 @@ a:hover {
   width: 500px;
 }
 
-
+.resume-wrapper {
+  float: left;
+}
 
 /* SIDEBAR ANIMATION */
 
