@@ -13,15 +13,12 @@ h1 {
   margin: 2.5%;
 }
 
-h2 {
+h2, p {
   margin-bottom: 1%;
   margin-left: 2%;
 
 }
 
-p {
-  margin-left: 2%;
-}
 
 footer {
   font-size: 10px;
@@ -94,11 +91,11 @@ a:hover {
 .resume {
   display: inline-block;
   margin: 1.5%;
-  width: 500px;
+  width: 800px;
 }
 
 .resume-wrapper {
-  float: left;
+  margin: 0 auto;
 }
 
 /* SIDEBAR ANIMATION */
