@@ -28,7 +28,7 @@ footer {
   display: block;
   padding-right: 20px;
   clear: both;
-  background-color: lavender;
+  /*background-color: lavender;*/
 }
 
 ul {
@@ -48,11 +48,11 @@ a:hover {
 
 .banner {
   font-size: 20px;
-  background-color: #B2D6FF;
+  /*background-color: #B2D6FF;*/
 }
 
 .sidebar {
-  background-color: #F09A9D;
+  /*background-color: #F09A9D;*/
   width: 400px;                 /* Add this */
   height: 800px;
   float: left;
@@ -75,7 +75,7 @@ a:hover {
 }
 
 .content {
-  background-color: #F5CF8E;
+  /*background-color: #F5CF8E;*/
   float: left;
   height: 300px;
 }
