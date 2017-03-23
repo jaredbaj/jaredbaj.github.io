@@ -76,11 +76,19 @@ a:hover {
       animation-duration: 0.6s;
 }
 
-.content {
+.about-content {
   /*background-color: #F5CF8E;*/
   float: left;
   height: 200px;
-  width: 300px;
+  width: 600px;
+  display: inline-block;
+}
+
+.resume-content {
+  /*background-color: #F5CF8E;*/
+  float: left;
+  height: 200px;
+  width: 100px;
   display: inline-block;
 }
 
@@ -102,8 +110,7 @@ a:hover {
 }
 
 .resume {
-  display: block;
-  margin: auto;
+  display: inline-block;
   width: 700px;
 }
 
