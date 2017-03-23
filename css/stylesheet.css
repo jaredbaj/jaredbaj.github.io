@@ -125,6 +125,8 @@ a:hover {
 .social-icon {
   height: 25px;
   width: 25px;
+  margin: 1%;
+  margin-right: 1.5%;
 }
 /* SIDEBAR ANIMATION */
 
