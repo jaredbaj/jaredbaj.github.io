@@ -129,8 +129,9 @@ a:hover {
   margin-right: 1.5%;
 }
 
-.contactlist{
+li.contactlist{
   display: inline-block;
+  margin: auto;
 }
 /* SIDEBAR ANIMATION */
 
