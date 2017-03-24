@@ -129,6 +129,10 @@ a:hover {
   margin-right: 1.5%;
 }
 
+.contactwrapper {
+  margin: auto;
+}
+
 li.contactlist{
   display: inline-block;
   margin: 20px;
