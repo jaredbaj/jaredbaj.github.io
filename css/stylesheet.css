@@ -58,6 +58,7 @@ a:hover {
   width: 300px;                 /* Add this */
   height: 150px;
   float: left;
+  position: fixed;
 
 
   -moz-animation-name: sidebar;
