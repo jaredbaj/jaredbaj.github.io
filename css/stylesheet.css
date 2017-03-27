@@ -153,6 +153,10 @@ li.contactlist{
   margin: 20px;
 }
 
+.anchor:hover {
+  color: black;
+}
+
 
 /* SIDEBAR ANIMATION */
 
