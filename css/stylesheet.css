@@ -155,6 +155,7 @@ li.contactlist{
 
 .anchor:hover {
   color: black;
+  cursor: default;
 }
 
 
