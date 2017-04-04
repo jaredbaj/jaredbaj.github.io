@@ -118,6 +118,7 @@ canvas {
   height: 100vh;
   width: 90%;
   float: right;
+  background-image: url("connect-the-dots.svg");
 }
 
 
