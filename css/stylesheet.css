@@ -133,6 +133,10 @@ canvas {
   margin: auto;
 }
 
+.connect {
+  position: absolute;
+}
+
 .face {
   float: right;
   position: absolute;
