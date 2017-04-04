@@ -116,9 +116,10 @@ a:hover {
 
 canvas {
   height: 100vh;
-  width: 90%;
+  width: 100%;
   float: right;
   background-image: url("connect-the-dots.svg");
+  background-attachment: fixed;
 }
 
 
