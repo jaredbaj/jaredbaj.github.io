@@ -106,6 +106,16 @@ a:hover {
   }
 }
 
+.canvas-content {
+  float: right;
+  height: 100%;
+  width: 70%;
+  display: inline-block;
+  position: relative;
+  margin-right: 6.5%;
+
+}
+
 canvas {
   height: 100%;
   width: 100%;
